@@ -1,1 +1,2 @@
-# ashwinvis98-StackOverFlow-tag-predict-system
+# StackOverFlow-tag-predict-system
+A Big-data system which periodically updates the StackOverFlow tag prediction model
